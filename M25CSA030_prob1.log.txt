@@ -1,0 +1,54 @@
+================ RUN 1 =================
+Chatbot: Hello! What’s your full name?
+You: My name is Suraj Kumar
+Chatbot: Nice to meet you, Mr/Ms Kumar.
+Chatbot: when is your birthday?
+You: 12-06-2001
+Chatbot: You are 24 years old.
+Chatbot: How are you feeling today?
+You: I am happpy today
+Chatbot: That'Good Be Happy!
+
+================ RUN 2 =================
+Chatbot: Hello! What’s your full name?
+You: Riya Sharma
+Chatbot: Nice to meet you, Mr/Ms Sharma.
+Chatbot: when is your birthday?
+You: 5 Jan 2000
+Chatbot: You are 25 years old.
+Chatbot: How are you feeling today?
+You: feeling sadd
+Chatbot: I'm sorry to hear that.
+
+================ RUN 3 =================
+Chatbot: Hello! What’s your full name?
+You: Aman
+Chatbot: Nice to meet you!
+Chatbot: when is your birthday?
+Your: 2001/06/12
+Chatbot: Sorry, I couldn't understand your birthday format.
+Chatbot: How are you feeling today?
+You: idk
+Chatbot: Hmm, I couldn't clearly understand your mood.
+
+================ RUN 4 =================
+Chatbot: Hello! What’s your full name?
+You: Rahul Verma
+Chatbot: Nice to meet you, Mr/Ms Verma.
+Chatbot: when is your birthday?
+You: 06 12 2002
+Chatbot: You are 22 years old.
+Chatbot: How are you feeling today?
+You: anggry
+Chatbot: Take a deep breath. Things will be soften.
+================ RUN 5 =================
+Chatbot: Hello! What's your full name?
+You: hi ma am s k
+Chatbot: Nice to meet you, Mr/Ms k.
+Chatbot: when is your birthday?
+You: 09-09-2023
+Chatbot: You are 2 years old.
+Chatbot: How are you feeling today?
+You: saddd
+Chatbot: I'm sorry to hear that.
+
